@@ -34,7 +34,7 @@ public class DesafioFaturamento {
             }
         }
 
-        // Exibir resultados
+        // Exibir resultados   
         System.out.println("Menor faturamento: R$ " + menor);
         System.out.println("Maior faturamento: R$ " + maior);
         System.out.println("Número de dias com faturamento acima da média: " + diasAcimaDaMedia);
